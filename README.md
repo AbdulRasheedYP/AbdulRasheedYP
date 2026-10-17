@@ -3,137 +3,72 @@
 
 # Abdul Rasheed YP
 
-### `Python Full-Stack Developer`
+**Python Full-Stack Developer**
 
-Building practical applications. Solving problems. Growing every day.
+Building practical web applications with Python, Django and React.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+DRF;React+%7C+PostgreSQL+%7C+REST+APIs;Learning+by+Building+Real+Projects" alt="Developer typing animation" />
-
-<p>
-  <a href="https://github.com/AbdulRasheedYP">
-    <img src="https://img.shields.io/badge/GitHub-AbdulRasheedYP-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00A8E8?style=for-the-badge" alt="Backend Development" />
-</p>
+[GitHub](https://github.com/AbdulRasheedYP) ·
+[Portfolio](https://github.com/AbdulRasheedYP/portfolio)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm Abdul Rasheed, a B.Com graduate focused on software development and building useful web applications.
+I'm a B.Com graduate focused on software development, with an interest in building reliable web applications and backend systems.
 
-- 🐍 Focused on Python, Django and Django REST Framework.
-- ⚛️ Learning and building full-stack applications with React.
-- 🗄️ Working with PostgreSQL and relational database design.
-- 🔌 Exploring REST API development, authentication and integrations.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🐧 Using Ubuntu/Linux for development.
-- 🚀 Interested in writing clean, maintainable and testable code.
+- Developing with Python, Django and Django REST Framework.
+- Building user interfaces with React, HTML and CSS.
+- Working with PostgreSQL and relational databases.
+- Practicing problem-solving and Data Structures & Algorithms.
+- Using Git, GitHub and Ubuntu/Linux in my development workflow.
 
-**My goal:** Become a capable software developer by building real projects and continuously improving my engineering skills.
+I believe in learning by building, writing maintainable code, and improving through practical experience.
 
----
+## Technical Skills
 
-## ⚡ Tech Stack
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, C |
+| Backend | Django, Django REST Framework |
+| Frontend | React, HTML, CSS, Bootstrap, Tailwind CSS |
+| Database | PostgreSQL, SQL |
+| Tools | Git, GitHub, Ubuntu/Linux |
 
-### Languages
+## Selected Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" alt="Python, JavaScript, C, HTML and CSS" />
-</p>
+### Personal Portfolio
+A website showcasing my development work and technical skills.
 
-### Backend & APIs
+[View Repository →](https://github.com/AbdulRasheedYP/portfolio)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,postgres" alt="Django and PostgreSQL" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A9225C?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-</p>
+### ShoeDrop — E-commerce Application
+A full-stack e-commerce project focused on product management and shopping workflows.
 
-### Frontend
+**Technologies:** Django, PostgreSQL, Tailwind CSS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS and Bootstrap" />
-</p>
+<!-- Add repository link and only the features you have implemented. -->
 
-### Tools & Environment
+### Expense Tracker
+A personal finance application concept for managing income and expenses.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
-</p>
+**Planned technologies:** Django REST Framework, React, PostgreSQL
 
----
+<!-- Add repository link after the project is ready to showcase. -->
 
-## 🚀 Featured Projects
+## Current Focus
 
-### 👟 ShoeDrop — E-commerce Application
-
-A full-stack e-commerce project focused on product management and online shopping.
-
-**Planned/implemented stack:** Django · PostgreSQL · Tailwind CSS
-
-- Product categories and variants
-- Shopping cart and order management
-- User accounts and authentication
-- Payment workflow
-
-> Update this list to match the features actually implemented.
-
-### 🌐 Personal Portfolio
-
-My personal portfolio for presenting projects and development skills.
-
-[**Explore Repository →**](https://github.com/AbdulRasheedYP/portfolio)
-
-### 💰 Expense Tracker
-
-A personal finance application concept focused on tracking income and expenses.
-
-**Planned stack:** Django REST Framework · React · PostgreSQL
-
-> Add the repository link and features once the project is ready to showcase.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
----
-
-## 🎯 Currently Improving
-
-- Data Structures and Algorithms
-- Django REST API architecture
-- Authentication and authorization
-- PostgreSQL queries and database design
-- React fundamentals and API integration
-- Automated testing and deployment
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/AbdulRasheedYP">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
+- Building REST APIs with Django REST Framework
+- Improving database design and query efficiency
+- Practicing Data Structures & Algorithms
+- Writing tests and improving code quality
+- Learning full-stack application architecture
 
 ---
 
 <div align="center">
 
-### `BUILD • LEARN • IMPROVE`
-
-<sub>Focused on progress, one project at a time.</sub>
+*Learn continuously. Build thoughtfully. Improve consistently.*
 
 </div>
