@@ -1,45 +1,67 @@
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">✦ SELECTED WORK</h2>
+
 <p align="center">
-  Selected work in backend development and web applications.
+  <sub>PROJECTS · ENGINEERING · CONTINUOUS LEARNING</sub>
 </p>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ShoeDrop
+<h3>01 / ShoeDrop</h3>
 
-E-commerce application built with Django.
+<p>
+A full-stack e-commerce application focused on
+product discovery, shopping workflows and order management.
+</p>
 
-**Stack:** Python · Django · PostgreSQL · Tailwind CSS
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Django-0F172A?style=flat-square&logo=django&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+</p>
 
-[View Repository](YOUR_SHOEDROP_REPOSITORY_URL)
+**STATUS** · In development, if applicable
+
+<a href="YOUR_SHOEDROP_REPOSITORY_URL">Explore project ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Expense Tracker
+<h3>02 / Expense Tracker</h3>
 
-Personal finance application for tracking income and expenses.
+<p>
+A personal finance application concept for managing
+transactions, income and expense categories.
+</p>
 
-**Stack:** Django REST Framework · React · PostgreSQL
+<p>
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8"/>
+</p>
 
-[View Repository](YOUR_EXPENSE_TRACKER_REPOSITORY_URL)
+**STATUS** · Concept / development, as applicable
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### Personal Portfolio
-
-A website showcasing my projects and development skills.
-
-**Stack:** HTML · CSS · JavaScript
-
-[View Repository](https://github.com/AbdulRasheedYP/portfolio)
+<a href="YOUR_EXPENSE_TRACKER_REPOSITORY_URL">Explore project ↗</a>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<h3 align="center">03 / PERSONAL PORTFOLIO</h3>
+
+<p align="center">
+A web space for presenting my work, technical skills and development journey.
+</p>
+
+<p align="center">
+<a href="https://github.com/AbdulRasheedYP/portfolio">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
