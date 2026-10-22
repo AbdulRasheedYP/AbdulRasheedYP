@@ -1,21 +1,17 @@
 
 <div align="center">
 
-# Abdul Rasheed YP
+# Hi, I'm Abdul Rasheed 👋
 
-### `Python Full-Stack Developer`
+### Python Developer
 
-Building practical applications. Solving problems. Growing every day.
+Building practical applications, learning software engineering, and solving problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+DRF;React+%7C+PostgreSQL+%7C+REST+APIs;Learning+by+Building+Real+Projects" alt="Developer typing animation" />
-
-<p>
-  <a href="https://github.com/AbdulRasheedYP">
-    <img src="https://img.shields.io/badge/GitHub-AbdulRasheedYP-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Platform-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-00A8E8?style=for-the-badge" alt="Backend Development" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
@@ -23,117 +19,67 @@ Building practical applications. Solving problems. Growing every day.
 
 ## 👨‍💻 About Me
 
-I'm Abdul Rasheed, a B.Com graduate focused on software development and building useful web applications.
+I'm Abdul Rasheed, a B.Com graduate focused on software development.
 
-- 🐍 Focused on Python, Django and Django REST Framework.
-- ⚛️ Learning and building full-stack applications with React.
-- 🗄️ Working with PostgreSQL and relational database design.
-- 🔌 Exploring REST API development, authentication and integrations.
+- 🐍 Learning Python and backend development.
+- ⚙️ Building applications with Django and FastAPI.
+- 🔌 Developing REST APIs and working with PostgreSQL.
+- ⚛️ Exploring React and full-stack development.
 - 🧠 Practicing Data Structures and Algorithms.
-- 🐧 Using Ubuntu/Linux for development.
-- 🚀 Interested in writing clean, maintainable and testable code.
+- 🐧 Using Ubuntu Linux as my development environment.
+- 🚀 Focused on writing maintainable code and building practical projects.
 
-**My goal:** Become a capable software developer by building real projects and continuously improving my engineering skills.
+## 🛠️ Technologies & Tools
 
----
+**Languages**
 
-## ⚡ Tech Stack
+Python · JavaScript · C · HTML · CSS
 
-### Languages
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" alt="Python, JavaScript, C, HTML and CSS" />
-</p>
+Django · Django REST Framework · FastAPI · REST APIs
 
-### Backend & APIs
+**Database**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=django,postgres" alt="Django and PostgreSQL" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A9225C?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-</p>
+PostgreSQL · SQL
 
-### Frontend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS and Bootstrap" />
-</p>
+React · Tailwind CSS · Bootstrap
 
-### Tools & Environment
+**Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Git, GitHub, Linux and VS Code" />
-</p>
+Git · GitHub · Linux · VS Code
 
----
+## 🚀 Projects
 
-## 🚀 Featured Projects
+### 👟 ShoeDrop
+An e-commerce application project focused on product management, authentication, shopping cart, and order workflows.
 
-### 👟 ShoeDrop — E-commerce Application
-
-A full-stack e-commerce project focused on product management and online shopping.
-
-**Planned/implemented stack:** Django · PostgreSQL · Tailwind CSS
-
-- Product categories and variants
-- Shopping cart and order management
-- User accounts and authentication
-- Payment workflow
-
-> Update this list to match the features actually implemented.
-
-### 🌐 Personal Portfolio
-
-My personal portfolio for presenting projects and development skills.
-
-[**Explore Repository →**](https://github.com/AbdulRasheedYP/portfolio)
+**Technologies:** Django · PostgreSQL · Tailwind CSS
 
 ### 💰 Expense Tracker
+An expense-tracking application concept for managing income and expenses.
 
-A personal finance application concept focused on tracking income and expenses.
+**Planned technologies:** Django REST Framework · React · PostgreSQL
 
-**Planned stack:** Django REST Framework · React · PostgreSQL
-
-> Add the repository link and features once the project is ready to showcase.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-</div>
-
----
-
-## 🎯 Currently Improving
+## 🎯 Currently Learning
 
 - Data Structures and Algorithms
-- Django REST API architecture
+- Backend architecture and API design
 - Authentication and authorization
-- PostgreSQL queries and database design
-- React fundamentals and API integration
-- Automated testing and deployment
+- Database optimization
+- Automated testing
+- Deployment and CI/CD
 
----
+## 📈 My Goal
 
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/AbdulRasheedYP">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-</p>
+To become a capable software developer by building real-world projects, strengthening problem-solving skills, and continuously improving my engineering fundamentals.
 
 ---
 
 <div align="center">
 
-### `BUILD • LEARN • IMPROVE`
-
-<sub>Focused on progress, one project at a time.</sub>
+### BUILD • LEARN • IMPROVE
 
 </div>
