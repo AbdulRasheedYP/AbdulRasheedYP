@@ -1,41 +1,42 @@
 
 <div align="center">
 
-# Hi, I'm Abdul Rasheed 👋
+# Abdul Rasheed
 
-### Python Developer
+### Python Backend Developer
 
-Building practical applications, learning software engineering, and solving problems.
+Building practical applications and developing strong software engineering fundamentals.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+[GitHub Profile](https://github.com/AbdulRasheedYP)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm Abdul Rasheed, a B.Com graduate focused on software development.
+I'm Abdul Rasheed, a B.Com graduate focused on backend development and building practical web applications.
 
-- 🐍 Learning Python and backend development.
-- ⚙️ Building applications with Django and FastAPI.
-- 🔌 Developing REST APIs and working with PostgreSQL.
-- ⚛️ Exploring React and full-stack development.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🐧 Using Ubuntu Linux as my development environment.
-- 🚀 Focused on writing maintainable code and building practical projects.
+- Developing backend applications with Python.
+- Learning Django, Django REST Framework, and FastAPI.
+- Working with PostgreSQL and relational database design.
+- Building and integrating REST APIs.
+- Practicing Data Structures and Algorithms.
+- Improving code quality, testing, and application architecture.
 
-## 🛠️ Technologies & Tools
+## Tech Stack
 
 **Languages**
 
-Python · JavaScript · C · HTML · CSS
+Python · JavaScript · C
 
-**Backend**
+**Backend & APIs**
 
 Django · Django REST Framework · FastAPI · REST APIs
 
@@ -45,41 +46,38 @@ PostgreSQL · SQL
 
 **Frontend**
 
-React · Tailwind CSS · Bootstrap
+React · HTML · CSS · Tailwind CSS · Bootstrap
 
-**Tools**
+**Development Tools**
 
-Git · GitHub · Linux · VS Code
+Git · GitHub · VS Code
 
-## 🚀 Projects
+## Featured Projects
 
-### 👟 ShoeDrop
-An e-commerce application project focused on product management, authentication, shopping cart, and order workflows.
+### ShoeDrop — E-commerce Application
 
-**Technologies:** Django · PostgreSQL · Tailwind CSS
+A web application project focused on product management and online shopping workflows.
 
-### 💰 Expense Tracker
-An expense-tracking application concept for managing income and expenses.
+**Stack:** Python · Django · PostgreSQL · Tailwind CSS
 
-**Planned technologies:** Django REST Framework · React · PostgreSQL
+### Expense Tracker
 
-## 🎯 Currently Learning
+An expense management application concept for recording and organizing income and expenses.
 
-- Data Structures and Algorithms
-- Backend architecture and API design
-- Authentication and authorization
-- Database optimization
-- Automated testing
-- Deployment and CI/CD
+**Planned stack:** Django REST Framework · React · PostgreSQL
 
-## 📈 My Goal
+## Current Focus
 
-To become a capable software developer by building real-world projects, strengthening problem-solving skills, and continuously improving my engineering fundamentals.
+- Strengthening Python fundamentals and problem-solving.
+- Designing reliable REST APIs.
+- Improving database design and query efficiency.
+- Writing maintainable, testable code.
+- Building and completing practical projects.
 
 ---
 
 <div align="center">
 
-### BUILD • LEARN • IMPROVE
+**Build. Learn. Improve.**
 
 </div>
