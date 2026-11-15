@@ -1,176 +1,101 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:123B5D,100:2563EB&text=ABDUL%20RASHEED%20YP&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER%20%7C%20AI%20SYSTEMS%20INTEGRATION&descAlignY=58&descSize=14" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Reliable+Backend+Systems;Designing+RESTful+APIs;Integrating+LLMs+with+Real+World+Applications;Learning%2C+Building%2C+and+Shipping" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0D1117&text=ABDUL%20RASHEED%20YP&fontSize=40&fontColor=FFFFFF&fontAlignY=40&desc=PYTHON%20BACKEND%20DEVELOPER&descSize=15&descColor=58A6FF&descAlignY=65" width="100%" />
 
 <br/>
 
-<a href="https://github.com/AbdulRasheedYP">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulrasheedyp/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:abdulrasheed5140@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Backend Engineering | API Development | AI Systems Integration**
 
-<img src="https://komarev.com/ghpvc/?username=AbdulRasheedYP&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+<a href="https://github.com/AbdulRasheedYP">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/abdulrasheedyp/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:abdulrasheed5140@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+## PROFESSIONAL PROFILE
 
-```python
-class AbdulRasheed:
-    role = "Python Backend Developer"
+Python Backend Developer with hands-on project experience building API-driven applications using Python, Django, Django REST Framework, FastAPI, and PostgreSQL.
 
-    focus = [
-        "Backend Engineering",
-        "API Development",
-        "AI Systems Integration"
-    ]
+Focused on LLM-powered application engineering, including LLM API integration, function calling, and multi-step agent workflows that connect language models with application logic and tools.
 
-    backend = [
-        "Python",
-        "Django",
-        "Django REST Framework",
-        "FastAPI"
-    ]
-
-    databases = [
-        "PostgreSQL",
-        "pgvector",
-        "SQL"
-    ]
-
-    ai = [
-        "LLM API Integration",
-        "Function Calling",
-        "Agentic Workflows"
-    ]
-
-    objective = "Build reliable software and integrate AI where it solves real problems."
-```
-
-I build API-driven applications with Python backend technologies and explore practical ways to connect LLMs with application logic, tools, and multi-step workflows.
+Interested in developing reliable backend systems, integrating AI capabilities, and building practical software solutions.
 
 ---
 
-## `02 / TECHNOLOGY STACK`
+## TECHNICAL SKILLS
+
+| Category | Technologies |
+|:--|:--|
+| **Backend Engineering** | Python, Django, Django REST Framework, FastAPI, REST API Development, Authentication & Access Control |
+| **Database & Data Management** | PostgreSQL, pgvector, SQL, Relational Database Design |
+| **AI Systems Integration** | LLM Integration, Agentic AI Workflows, Function Calling, Tool Integration |
+| **Frontend Development** | React.js, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Cloud & Deployment** | AWS EC2, Linux (Ubuntu), Gunicorn, Nginx |
+| **Development & Testing Tools** | Git, GitHub, Pytest, Postman |
+
+---
+
+## PROJECTS
+
+### 01. ShoeDrop — E-Commerce Platform
+
+`Python` · `Django` · `PostgreSQL` · `Tailwind CSS`
+
+- Developed backend components for an e-commerce application supporting product catalogues, category hierarchies, and shopping workflows.
+- Designed relational models for products, product variants, and user accounts.
+- Implemented authentication and shopping-related backend functionality.
+
+### 02. Travel Planning Agent
+
+<sub>IN PROGRESS</sub>
+
+`Python` · `LLM Integration` · `Agentic AI` · `Function Calling`
+
+- Developing an AI-powered travel planning application that transforms natural-language requests into structured planning workflows.
+- Integrating LLM APIs, function calling, and tool execution to support multi-step task orchestration.
+
+### 03. Expense Management System
+
+<sub>IN PROGRESS</sub>
+
+`Python` · `Django REST Framework` · `React.js` · `PostgreSQL`
+
+- Designing an expense management application for structured income, expenditure, and category-based tracking.
+- Developing backend API structures for financial records and planning integration with a React frontend.
+
+### 04. B2B Business Application
+
+<sub>TEAM PROJECT</sub>
+
+**Collaborative Software Development**
+
+- Worked with a development team on a B2B-focused application, evaluating feature usefulness and alignment with business requirements.
+- Assessed feature strengths, limitations, and practical value against intended user needs.
+
+---
+
+## DEVELOPMENT ENVIRONMENT
 
 <div align="center">
 
-### BACKEND
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-`PostgreSQL` &nbsp; `pgvector` &nbsp; `SQL`
-
-### FRONTEND
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-### CLOUD & TOOLS
-
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github,postman" />
-
-`Gunicorn` &nbsp; `Nginx` &nbsp; `Pytest`
-
-### AI SYSTEMS
-
-`LLM API Integration` &nbsp; `Function Calling` &nbsp; `Tool Integration` &nbsp; `Agentic Workflows`
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,react,js,html,css,tailwind,aws,linux,git,github" />
 
 </div>
 
 ---
 
-## `03 / SELECTED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 ShoeDrop
-**E-Commerce Platform**
-
-`Python` `Django` `PostgreSQL` `Tailwind CSS`
-
-- Backend components for product catalogues and shopping workflows.
-- Relational models for products, variants, and user accounts.
-- Authentication and shopping-related backend functionality.
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ Travel Planning Agent
-**In Progress**
-
-`Python` `LLM APIs` `Agentic AI` `Function Calling`
-
-- Converts natural-language requests into structured planning workflows.
-- Integrates LLM APIs and function calling.
-- Orchestrates multi-step tasks through tool execution.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Expense Management System
-**In Progress**
-
-`Python` `DRF` `React` `PostgreSQL`
-
-- Structured income, expenditure, and category-based tracking.
-- Backend API structures for financial records.
-- React frontend integration planned.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 B2B Business Application
-**Team Project**
-
-`Collaborative Software Development`
-
-- Evaluated feature usefulness against business requirements.
-- Assessed feature strengths, limitations, and practical value for intended users.
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 / CURRENT FOCUS`
-
-| AREA | FOCUS |
-|:---|:---|
-| Backend | Django REST Framework · FastAPI |
-| Database | PostgreSQL · SQL · pgvector |
-| AI Integration | LLM APIs · Function Calling · Tool Workflows |
-| Engineering | Testing · Deployment · Backend Architecture |
-
----
-
-## `05 / GITHUB ANALYTICS`
+## GITHUB STATISTICS
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRasheedYP&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
@@ -178,12 +103,10 @@ I build API-driven applications with Python backend technologies and explore pra
 
 <div align="center">
 
-### LET'S BUILD SOMETHING USEFUL.
+**BACKEND ENGINEERING · API DEVELOPMENT · AI SYSTEMS INTEGRATION**
 
-**Open to meaningful collaborations and software development opportunities.**
+<br/>
 
-<a href="mailto:abdulrasheed5140@gmail.com">CONTACT ME ↗</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2563EB,50:123B5D,100:0F172A&section=footer" width="100%" />
+<a href="mailto:abdulrasheed5140@gmail.com">CONTACT</a>
 
 </div>
