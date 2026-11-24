@@ -1,258 +1,164 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0D1117&text=ABDUL%20RASHEED%20YP&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20BACKEND%20DEVELOPER&descSize=17&descColor=58A6FF&descAlignY=62" />
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0d1117&text=ABDUL%20RASHEED%20YP&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20FULL-STACK%20DEVELOPER%20%7C%20AI%20SYSTEMS%20%26%20CLOUD&descSize=16&descColor=58a6ff&descAlignY=62" alt="Abdul Rasheed YP Banner" />
 
 <br/>
 
-### Backend Engineering | API Development | AI Systems Integration
+<!-- SUBTITLE -->
+### ⚡ Python Full-Stack Developer • Agentic AI & LLMs • RESTful Architectures
 
-Building API-driven applications and integrating AI capabilities into practical software systems.
+<p align="center">
+  Building robust, scalable backend systems, interactive modern frontends, and integrating production-grade LLM capabilities.
+</p>
 
-<br/>
+<!-- ACTION BADGES & PORTFOLIO -->
+<p align="center">
+  <a href="https://abdulrasheedyp-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-abdulrasheedyp--portfolio.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrasheedyp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulrasheed5140@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AbdulRasheedYP">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://github.com/AbdulRasheedYP">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/abdulrasheedyp/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:abdulrasheed5140@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AbdulRasheedYP&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+<!-- VISITOR BADGE -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulRasheedYP&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-# 01. PROFESSIONAL PROFILE
+### 👨‍💻 About Me
 
-I'm a **Python Backend Developer** with hands-on project experience building API-driven applications using Python, Django, Django REST Framework, FastAPI, and PostgreSQL.
-
-Alongside backend development, I focus on **LLM-powered application engineering**, including LLM API integration, function calling, and multi-step agent workflows that connect language models with application logic and tools.
-
-My development interests include:
-
-- Designing maintainable backend applications.
-- Building RESTful APIs and authentication systems.
-- Working with relational databases and data modelling.
-- Integrating LLMs into application workflows.
-- Developing tool-driven AI agent systems.
-- Deploying applications in Linux environments.
+- 🚀 **Specialization:** Python Full-Stack Web Development, API Architecture & LLM Orchestration.
+- 🛠️ **Backend Expertise:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, and Docker containerization.
+- 🎨 **Frontend Craft:** Building fast, responsive Single Page Applications with React, TypeScript, and Tailwind CSS.
+- 🤖 **AI Engineering:** Integrating Google Gemini, function calling, structured LLM outputs, and multi-step agent workflows.
+- 💼 **Live Portfolio:** Explore my latest builds & projects at **[abdulrasheedyp-portfolio.vercel.app](https://abdulrasheedyp-portfolio.vercel.app/)**.
 
 ---
 
-# 02. TECHNICAL EXPERTISE
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### BACKEND ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-
-`Python` · `Django` · `Django REST Framework` · `FastAPI` · `REST API Development` · `Authentication & Access Control`
-
-<br/>
-
-### DATABASE & DATA MANAGEMENT
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-`PostgreSQL` · `pgvector` · `SQL` · `Relational Database Design`
-
-<br/>
-
-### AI SYSTEMS INTEGRATION
-
-<img src="https://img.shields.io/badge/LLM-Integration-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Function-Calling-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tool-Integration-1D4ED8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agentic-AI-1D4ED8?style=flat-square"/>
-
-`LLM API Integration` · `Function Calling` · `Tool Integration` · `Multi-step Agent Workflows`
-
-<br/>
-
-### FRONTEND DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-`React.js` · `JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS`
-
-<br/>
-
-### CLOUD & DEPLOYMENT
-
-<img src="https://skillicons.dev/icons?i=aws,linux" />
-
-`AWS EC2` · `Linux (Ubuntu)` · `Gunicorn` · `Nginx`
-
-<br/>
-
-### DEVELOPMENT & TESTING TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
-
-`Git` · `GitHub` · `Pytest` · `Postman`
-
-</div>
-
----
-
-# 03. FEATURED PROJECTS
-
-## 01 — ShoeDrop
-
-### E-Commerce Platform
-
-<img src="https://img.shields.io/badge/PROJECT-E--COMMERCE-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/STACK-DJANGO-0C4B33?style=flat-square"/>
-
-**Technologies**
-
-`Python` `Django` `PostgreSQL` `Tailwind CSS`
-
-**Project Overview**
-
-A Django-based e-commerce application designed around product catalogues, category hierarchies, user accounts, and shopping workflows.
-
-**Development Contributions**
-
-- Developed backend components for product catalogues and shopping workflows.
-- Designed relational models for products, product variants, and user accounts.
-- Implemented authentication and shopping-related backend functionality.
-- Structured category hierarchies for product organization.
-
----
-
-## 02 — Travel Planning Agent
-
-### AI-Powered Travel Planning Application
-
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-AGENTIC%20AI-7C3AED?style=flat-square"/>
-
-**Technologies**
-
-`Python` `LLM Integration` `Agentic AI` `Function Calling`
-
-**Project Overview**
-
-An AI-powered travel planning application designed to transform natural-language requests into structured planning workflows.
-
-**Development Focus**
-
-- Integrating LLM APIs into application workflows.
-- Using function calling to connect language models with application tools.
-- Building multi-step task orchestration.
-- Converting user requests into structured planning operations.
-
----
-
-## 03 — Expense Management System
-
-### Personal Finance Management Application
-
-<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F59E0B?style=flat-square"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-2563EB?style=flat-square"/>
-
-**Technologies**
-
-`Python` `Django REST Framework` `React.js` `PostgreSQL`
-
-**Project Overview**
-
-An expense management application designed for structured income, expenditure, and category-based financial tracking.
-
-**Development Focus**
-
-- Designing backend API structures for financial records.
-- Organizing income and expenditure categories.
-- Developing the backend application with Django REST Framework.
-- Planning integration with a React frontend.
-
----
-
-## 04 — B2B Business Application
-
-### Collaborative Software Development
-
-<img src="https://img.shields.io/badge/TYPE-TEAM%20PROJECT-64748B?style=flat-square"/>
-
-**Project Overview**
-
-A collaborative B2B application project involving evaluation of product features against business requirements and user needs.
-
-**Contributions**
-
-- Evaluated feature usefulness and alignment with business requirements.
-- Assessed feature strengths and limitations.
-- Examined practical value against intended user needs.
-
----
-
-# 04. AI & BACKEND DEVELOPMENT FOCUS
-
-My current technical direction combines backend engineering with practical AI integration.
-
-| Focus Area | Technologies / Concepts |
-|:--|:--|
-| API Engineering | Django REST Framework, FastAPI |
-| Backend Systems | Python, Authentication, REST APIs |
-| Data Layer | PostgreSQL, SQL, pgvector |
-| LLM Integration | LLM APIs, Function Calling |
-| Agent Workflows | Tool Integration, Multi-step Orchestration |
-| Infrastructure | AWS EC2, Ubuntu, Gunicorn, Nginx |
-
----
-
-# 05. GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulRasheedYP&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
-
-# 06. EDUCATION & TRAINING
-
-**Bachelor of Commerce (B.Com)**
-
-Sullamussalam Science College  
-University of Calicut · 2025
-
-**Software Development Training Program**
-
-Brototype · 2 Years
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" width="100%"/>
-
-### BUILDING RELIABLE BACKENDS. INTEGRATING INTELLIGENT SYSTEMS.
-
-**Open to meaningful software development collaborations and opportunities.**
-
-<a href="mailto:abdulrasheed5140@gmail.com">
-<img src="https://img.shields.io/badge/GET%20IN%20TOUCH-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+#### Backend & APIs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis" alt="Backend Skills" />
 </a>
+<br/>
+<code>Python</code> • <code>Django</code> • <code>Django REST Framework</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>RESTful APIs</code> • <code>JWT / OAuth</code>
 
-<br/><br/>
+<br/>
 
-<sub>Python Backend Development · API Engineering · AI Systems Integration</sub>
+#### Frontend & UI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend Skills" />
+</a>
+<br/>
+<code>React.js</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>HTML5 / CSS3</code>
+
+<br/>
+
+#### AI & Integrations
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Function_Calling-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square" />
+</p>
+
+#### DevOps, Cloud & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel" alt="DevOps & Tools" />
+</a>
+<br/>
+<code>Docker</code> • <code>Linux (Ubuntu)</code> • <code>Nginx</code> • <code>Git</code> • <code>GitHub Actions</code> • <code>Postman</code> • <code>Vercel</code>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/AbdulRasheedYP/jobpilot-ai">JobPilot AI</a></h3>
+      <p><b>Intelligent Career & Job Application Copilot</b></p>
+      <p>Production-ready platform containerized with Docker and Nginx. Orchestrates automated resume-to-job matching with AI workflows and sub-second latency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ <a href="https://github.com/AbdulRasheedYP/Travel-Planning-Agent">Travel Planning Agent</a></h3>
+      <p><b>AI-Powered Personalized Itinerary Engine</b></p>
+      <p>Full-stack travel planner integrating Google Gemini API for custom day-by-day itineraries combined with live Open-Meteo weather forecasting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/AbdulRasheedYP/Expense_Tracker">Expense Management Platform</a></h3>
+      <p><b>Production-Grade Local-First Finance Suite</b></p>
+      <p>Multi-account expense tracking platform architected with strict TypeScript typing, Dockerized infrastructure, and modular contracts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/AbdulRasheedYP/shoedrop-ecommerce">ShoeDrop E-Commerce</a></h3>
+      <p><b>Complete Footwear E-Commerce Platform</b></p>
+      <p>End-to-end shopping platform with 65+ commits, comprehensive cart logic, coupons/discounts, user authentication, and responsive mobile-first UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRasheedYP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRasheedYP&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate!
+
+[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrasheedyp-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheedyp/)
+[![Email](https://img.shields.io/badge/Send-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrasheed5140@gmail.com)
 
 </div>
