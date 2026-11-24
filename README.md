@@ -118,7 +118,8 @@ Python Backend Developer with hands-on experience building robust web applicatio
 
 ---
 
-#### 2. 🚗 [HireD](https://github.com/Buildathon-HireD-Brototype-2026/Byte-Club) — B2B Driver Operations & Fleet Platform *(Team Project — Byte Club)*
+#### 2. 🚗 HireD 🔒 — B2B Driver Operations & Fleet Platform *(Team Project — Byte Club)*
+> <img src="https://img.shields.io/badge/Repository-Private_Organization_Repo_🔒-crimson?style=flat-square" alt="Private Repository" />  
 > **An enterprise B2B mobility platform managing driver lifecycle operations, compliance verifications, and concurrency-safe financial workflows.**
 
 - **Tech Stack:** `Python 3.12`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `Alembic`, `AWS S3`, `Docker`, `Pytest`
