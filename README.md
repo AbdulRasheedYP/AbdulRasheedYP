@@ -1,21 +1,17 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0d1117&text=ABDUL%20RASHEED%20YP&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=PYTHON%20FULL-STACK%20DEVELOPER%20%7C%20AI%20SYSTEMS%20%26%20CLOUD&descSize=16&descColor=58a6ff&descAlignY=62" alt="Abdul Rasheed YP Banner" />
+# <h1>Abdul Rasheed YP</h1>
 
-<br/>
-
-<!-- SUBTITLE -->
-### ⚡ Python Full-Stack Developer • Agentic AI & LLMs • RESTful Architectures
+### ⚡ Python Full-Stack Developer • AI Systems & Cloud Architect
 
 <p align="center">
-  Building robust, scalable backend systems, interactive modern frontends, and integrating production-grade LLM capabilities.
+  Crafting resilient backend architectures, intuitive frontend experiences, and production-ready Agentic AI systems.
 </p>
 
-<!-- ACTION BADGES & PORTFOLIO -->
+<!-- ACTION BADGES -->
 <p align="center">
   <a href="https://abdulrasheedyp-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-abdulrasheedyp--portfolio.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrasheedyp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,7 +24,6 @@
   </a>
 </p>
 
-<!-- VISITOR BADGE -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdulRasheedYP&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
@@ -37,49 +32,49 @@
 
 ---
 
-### 👨‍💻 About Me
+### 💡 About Me
 
-- 🚀 **Specialization:** Python Full-Stack Web Development, API Architecture & LLM Orchestration.
-- 🛠️ **Backend Expertise:** Python, Django, Django REST Framework, FastAPI, PostgreSQL, and Docker containerization.
-- 🎨 **Frontend Craft:** Building fast, responsive Single Page Applications with React, TypeScript, and Tailwind CSS.
-- 🤖 **AI Engineering:** Integrating Google Gemini, function calling, structured LLM outputs, and multi-step agent workflows.
-- 💼 **Live Portfolio:** Explore my latest builds & projects at **[abdulrasheedyp-portfolio.vercel.app](https://abdulrasheedyp-portfolio.vercel.app/)**.
+- 💻 **Backend Engineering:** Highly proficient in Python, Django REST Framework, FastAPI, PostgreSQL, and scalable API design.
+- 🎨 **Modern Frontend:** Developing performant SPAs with React, TypeScript, Vite, and Tailwind CSS.
+- 🤖 **AI & Agentic Systems:** Implementing LLM integrations (Google Gemini API), function calling, tool use, and multi-step agents.
+- 🐳 **DevOps & Cloud:** Containerizing multi-service architectures with Docker & Docker Compose, deploying on Linux / Nginx.
+- 🚀 **Live Works:** Discover my featured builds on my **[Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-#### Backend & APIs
+#### Backend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis" alt="Backend Stack" />
 </a>
 <br/>
-<code>Python</code> • <code>Django</code> • <code>Django REST Framework</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>RESTful APIs</code> • <code>JWT / OAuth</code>
+<code>Python</code> • <code>Django</code> • <code>Django REST Framework</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>RESTful APIs</code>
 
 <br/>
 
 #### Frontend & UI
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
 </a>
 <br/>
 <code>React.js</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>HTML5 / CSS3</code>
 
 <br/>
 
-#### AI & Integrations
+#### AI & Intelligent Systems
 <p>
   <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Function_Calling-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square" />
 </p>
 
-#### DevOps, Cloud & Tools
+#### Cloud, DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vercel" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vercel" alt="Tools & DevOps" />
 </a>
 <br/>
 <code>Docker</code> • <code>Linux (Ubuntu)</code> • <code>Nginx</code> • <code>Git</code> • <code>GitHub Actions</code> • <code>Postman</code> • <code>Vercel</code>
@@ -88,14 +83,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Selected Works & Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 <a href="https://github.com/AbdulRasheedYP/jobpilot-ai">JobPilot AI</a></h3>
-      <p><b>Intelligent Career & Job Application Copilot</b></p>
-      <p>Production-ready platform containerized with Docker and Nginx. Orchestrates automated resume-to-job matching with AI workflows and sub-second latency.</p>
+      <p><b>Intelligent Career & Job Application Platform</b></p>
+      <p>Containerized multi-service platform using Docker & Nginx. Features automated resume intelligence and job matching powered by AI with sub-second API performance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -105,8 +100,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>✈️ <a href="https://github.com/AbdulRasheedYP/Travel-Planning-Agent">Travel Planning Agent</a></h3>
-      <p><b>AI-Powered Personalized Itinerary Engine</b></p>
-      <p>Full-stack travel planner integrating Google Gemini API for custom day-by-day itineraries combined with live Open-Meteo weather forecasting.</p>
+      <p><b>AI-Powered Context-Aware Itinerary Generator</b></p>
+      <p>Generates tailored day-by-day travel itineraries via Google Gemini API combined with real-time weather forecasts dynamically queried from Open-Meteo REST API.</p>
       <p>
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -118,7 +113,7 @@
     <td width="50%" valign="top">
       <h3>💳 <a href="https://github.com/AbdulRasheedYP/Expense_Tracker">Expense Management Platform</a></h3>
       <p><b>Production-Grade Local-First Finance Suite</b></p>
-      <p>Multi-account expense tracking platform architected with strict TypeScript typing, Dockerized infrastructure, and modular contracts.</p>
+      <p>End-to-end finance management suite built with strict TypeScript typing, Dockerized services, mobile compatibility, and analytics visualization.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -127,8 +122,8 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛒 <a href="https://github.com/AbdulRasheedYP/shoedrop-ecommerce">ShoeDrop E-Commerce</a></h3>
-      <p><b>Complete Footwear E-Commerce Platform</b></p>
-      <p>End-to-end shopping platform with 65+ commits, comprehensive cart logic, coupons/discounts, user authentication, and responsive mobile-first UI.</p>
+      <p><b>Full-Lifecycle Footwear Shopping Engine</b></p>
+      <p>Complete e-commerce platform boasting 65+ commits with granular category hierarchies, cart engines, coupons, and seamless responsive design.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -140,7 +135,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulRasheedYP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -155,10 +150,10 @@
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulrasheedyp-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheedyp/)
-[![Email](https://img.shields.io/badge/Send-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrasheed5140@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white)](https://abdulrasheedyp-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheedyp/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrasheed5140@gmail.com)
 
 </div>
