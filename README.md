@@ -2,10 +2,10 @@
 
 # <h1>Abdul Rasheed YP</h1>
 
-### ⚡ Python Full-Stack Developer • Agentic AI & Backend Systems
+### ⚡ Python Backend Developer | Full-Stack & AI Applications
 
 <p align="center">
-  Designing high-performance backend architectures, API ecosystems, and integrating practical Agentic AI workflows.
+  Building robust web applications, RESTful APIs, and practical AI solutions with Python, Django, FastAPI & React.
 </p>
 
 <!-- ACTION BADGES -->
@@ -28,13 +28,15 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
 
-- 🎯 **Core Expertise:** Python Full-Stack Engineering, Distributed RESTful APIs, Relational Database Modeling, and LLM Tool Integration.
-- ⚙️ **Backend Prowess:** Production architecture using Python, Django, Django REST Framework, FastAPI, and PostgreSQL.
-- 🎨 **Modern Web Apps:** Interactive, accessible SPAs engineered with React, TypeScript, and Tailwind CSS.
-- 🤖 **AI & Agentic Systems:** Leveraging Google Gemini API, structured JSON extraction, tool calling, and automated agent orchestration.
-- 🚀 **Live Showcase:** Discover my interactive applications on my **[Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**.
+Python Backend Developer with hands-on experience building robust web applications, REST APIs, and AI-powered solutions using **Python, Django, Django REST Framework, FastAPI, and PostgreSQL**. Skilled in backend architecture, database design, and full-stack development with **React**, alongside integrating LLMs through **RAG pipelines, function calling, and external tools**. Focused on building reliable, maintainable software that combines strong backend engineering with practical AI capabilities.
+
+- 🎯 **Core Expertise:** Python Backend Architecture, RESTful API Engineering, Relational Database Modeling, and LLM Tool Integration.
+- ⚙️ **Backend Prowess:** Production-grade services with Django, Django REST Framework, FastAPI, SQLAlchemy, Alembic, and PostgreSQL.
+- 🎨 **Modern Frontend:** Responsive, accessible interfaces built with React.js, TypeScript, Vite, and Tailwind CSS.
+- 🤖 **AI & LLM Systems:** RAG workflows, structured function calling, prompt engineering, and deterministic JSON outputs.
+- 🚀 **Live Showcase:** Explore my interactive applications on my **[Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**.
 
 ---
 
@@ -42,136 +44,138 @@
 
 <div align="center">
 
-#### Backend & Core Systems
+#### Backend Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis" alt="Backend Stack" />
 </a>
 <br/>
-<code>Python</code> • <code>Django</code> • <code>Django REST Framework (DRF)</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Redis</code> • <code>RESTful API Design</code>
+<code>Python</code> • <code>Django</code> • <code>Django REST Framework (DRF)</code> • <code>FastAPI</code> • <code>REST APIs</code> • <code>JWT Authentication</code> • <code>SQLAlchemy</code> • <code>Alembic</code>
 
 <br/>
 
-#### Frontend Engineering
+#### Frontend Development
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
 </a>
 <br/>
-<code>React.js</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>Tailwind CSS</code> • <code>Vite</code> • <code>Responsive UI/UX</code>
+<code>React.js</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Responsive UI/UX</code>
 
 <br/>
 
-#### AI, LLMs & Intelligent Workflows
+#### Database & Data Management
 <p>
-  <img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI_Workflows-7C3AED?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Function_Calling_%26_Tools-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Structured_Prompt_Engineering-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Relational_DB_Design-0F2C59?style=flat-square" />
+  <img src="https://img.shields.io/badge/Indexing_%26_Optimization-10B981?style=flat-square" />
 </p>
 
-#### DevOps, Infrastructure & Tools
+#### AI & LLM Integration
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_Embeddings-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM_APIs-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Function_Calling-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool_Integration-EC4899?style=flat-square" />
+</p>
+
+#### Cloud & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vercel" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,aws,git,github,vercel" alt="Cloud & DevOps" />
 </a>
 <br/>
-<code>Docker</code> • <code>Docker Compose</code> • <code>Linux (Ubuntu)</code> • <code>Nginx Reverse Proxy</code> • <code>Git</code> • <code>GitHub Actions</code> • <code>Postman</code> • <code>Vercel</code>
+<code>Docker</code> • <code>Docker Compose</code> • <code>Linux (Ubuntu)</code> • <code>Nginx Reverse Proxy</code> • <code>AWS EC2</code> • <code>AWS S3</code> • <code>Git</code> • <code>GitHub Actions</code> • <code>Vercel</code>
+
+<br/>
+
+#### Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 </div>
 
 ---
 
-### 🚀 Featured Engineering Projects (Deep Dive)
+### 🚀 Featured Engineering Projects
 
 ---
 
-#### 1. 🎯 [JobPilot AI](https://github.com/AbdulRasheedYP/jobpilot-ai) — Intelligent Career & Job Copilot
-> **A multi-service, containerized AI platform automating career workflow management, resume intelligence, and job description semantic matching.**
+#### 1. 🎯 [JobPilot AI](https://github.com/AbdulRasheedYP/jobpilot-ai) — AI-Powered Career Assistant
+> **An intelligent career assistant automating candidate profile analysis, skill taxonomy extraction, and semantic job matching.**
 
-- **Tech Stack Breakdown:**
-  - **Backend:** Python, FastAPI / Django REST Framework (High-throughput async endpoints, input validation).
-  - **Frontend:** React.js, Tailwind CSS, Vite (Clean responsive dashboard, real-time status updates).
-  - **Containerization & Deployment:** Docker, Docker Compose, Nginx (Reverse proxy and static caching).
-  - **AI Integration:** LLM-based Resume Parsing, semantic skill extraction, and candidate-job matching algorithms.
+- **Tech Stack:** `Python`, `FastAPI / DRF`, `React.js`, `Docker`, `Docker Compose`, `LLM APIs`
 - **Key Engineering Highlights:**
-  - Implemented a modular microservices-inspired architecture with dedicated containers for backend, frontend, and Nginx routing.
-  - Reduced API latency through asynchronous request handling and structured prompt design.
-  - 53+ commits with continuous version control and production Docker setup (`docker-compose.prod.yml`).
+  - Developed an AI-powered career assistant that analyzes resumes, extracts relevant skills, and matches candidate profiles against targeted job descriptions.
+  - Integrated LLM APIs using structured function calling to support intelligent job matching and automated career-related workflows.
+  - Containerized full-stack microservices using Docker Compose and Nginx reverse proxy for reliable deployment.
 
 ---
 
-#### 2. ✈️ [Travel Planning Agent](https://github.com/AbdulRasheedYP/Travel-Planning-Agent) — Context-Aware AI Travel Engine
-> **An AI-powered travel planner that generates customized multi-day itineraries dynamically informed by real-time climate telemetry.**
+#### 2. 🚗 [HireD](https://github.com/Buildathon-HireD-Brototype-2026/Byte-Club) — B2B Driver Operations & Fleet Platform *(Team Project — Byte Club)*
+> **An enterprise B2B mobility platform managing driver lifecycle operations, compliance verifications, and concurrency-safe financial workflows.**
 
-- **Tech Stack Breakdown:**
-  - **Backend:** Python, Django REST Framework (REST API serialization, query controllers).
-  - **AI & External APIs:** Google Gemini API (`google-generativeai`), Open-Meteo Weather REST API.
-  - **Frontend:** React.js, Tailwind CSS (Visual day-by-day itinerary timeline, budget & duration filters).
-  - **Database:** PostgreSQL / SQLite (User preferences, destination caching).
+- **Tech Stack:** `Python 3.12`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `Alembic`, `AWS S3`, `Docker`, `Pytest`
 - **Key Engineering Highlights:**
-  - Engineered prompt chains combining user trip parameters with real-time temperature, precipitation, and climate data from Open-Meteo.
-  - Enforced strict JSON schema outputs from Gemini LLM for direct client-side parsing without formatting errors.
-  - Responsive mobile-friendly UI allowing instant plan regeneration and day-wise schedule adjustments.
+  - Contributed to the backend development of a driver operations platform, implementing driver lifecycle management, availability tracking, and KYC document verification using AWS S3.
+  - Developed trip execution APIs, selfie-based trip validation, and expense management workflows, leveraging SQLAlchemy with database-level locking for concurrency and Alembic for schema migrations.
+  - Implemented strict KYC inspection with file magic-byte validation and secure pre-signed AWS S3 asset access.
 
 ---
 
-#### 3. 💳 [Expense Management Platform](https://github.com/AbdulRasheedYP/Expense_Tracker) — Production-Grade Local-First Finance Suite
-> **A modular personal financial suite built with a monorepo structure spanning web, mobile contracts, and containerized backend services.**
+#### 3. ✈️ [Travel Planning Agent](https://github.com/AbdulRasheedYP/Travel-Planning-Agent) — Context-Aware AI Itinerary Generator
+> **An interactive travel planning engine translating natural language user prompts into day-wise personalized itineraries informed by live meteorological data.**
 
-- **Tech Stack Breakdown:**
-  - **Architecture:** Monorepo (`backend/`, `web/`, `mobile/`, `contracts/`, `scripts/`).
-  - **Stack:** TypeScript (Strict mode), React/Next.js, Node.js, Tailwind CSS.
-  - **DevOps:** Docker Compose, Local-first caching layer.
+- **Tech Stack:** `Python`, `Django REST Framework`, `React.js`, `RAG`, `LLM APIs`, `Open-Meteo API`, `PostgreSQL`
 - **Key Engineering Highlights:**
-  - 78+ commits demonstrating enterprise-level repository structure and type-safe contract sharing between web and mobile targets.
-  - Real-time ledger calculations, categorical budget visualization, and multi-wallet balance synchronization.
+  - Built an AI-powered travel planning application that transforms natural-language travel requests into personalized, day-wise itineraries.
+  - Implemented a RAG pipeline using curated destination data to provide relevant context for LLM-generated recommendations.
+  - Integrated live Open-Meteo meteorological telemetry, dynamically adapting daily schedules with deterministic JSON schema validation.
 
 ---
 
-#### 4. 🛒 [ShoeDrop](https://github.com/AbdulRasheedYP/shoedrop-ecommerce) — Full-Lifecycle E-Commerce Web Application
-> **A comprehensive footwear e-commerce ecosystem built from scratch with complete checkout flows, inventory tracking, and discount engines.**
+#### 4. 🛒 [ShoeDrop](https://github.com/AbdulRasheedYP/shoedrop-ecommerce) — Full-Stack E-Commerce Platform
+> **A complete footwear e-commerce application featuring dynamic product discovery, cart lifecycle, checkout, and inventory tracking.**
 
-- **Tech Stack Breakdown:**
-  - **Backend:** Python 3, Django Web Framework (ORM, Class-Based Views, Custom Signals).
-  - **Database:** PostgreSQL (Relational schema for product variants, sizes, inventory levels, orders).
-  - **Frontend & Styling:** Django Templates, Tailwind CSS, JavaScript (AJAX cart updates).
-  - **Security:** CSRF tokens, Django User Authentication, password hashing, session management.
+- **Tech Stack:** `Python`, `Django`, `PostgreSQL`, `Tailwind CSS`, `JavaScript (AJAX)`
 - **Key Engineering Highlights:**
-  - 65+ commits covering the full shopping lifecycle: catalog filtering, dynamic cart calculations, coupon discount validation, and order tracking.
-  - Normalized relational database models preventing data anomalies across size/color variants and stock quantity checks.
+  - Developed and deployed a full-stack e-commerce platform featuring product discovery, shopping cart, checkout, and customer account management.
+  - Designed relational database models to manage product variants (sizes, colors), inventory levels, pricing, coupons, and promotional discounts using PostgreSQL.
+  - Implemented session persistence, secure authentication, CSRF validation, and asynchronous AJAX interactions for friction-free shopping.
 
 ---
 
-#### 5. 🌐 [Personal Developer Portfolio](https://github.com/AbdulRasheedYP/portfolio) — High-Performance Web Portfolio
-> **Live Web Application: [Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**
+#### 5. 🌐 [Personal Developer Portfolio](https://github.com/AbdulRasheedYP/portfolio) — Modern Web Portfolio
+> **Live Web Application: [abdulrasheedyp-portfolio.vercel.app](https://abdulrasheedyp-portfolio.vercel.app/)**
 
-- **Tech Stack:** React 18, Vite, Tailwind CSS, Firebase Firestore (Real-time DB), Firebase Auth, Lenis Inertial Scroll, Vercel CDN.
-- **Highlights:** Instant asset preloading, glassmorphism dark UI, custom real-time CMS for managing project displays, and zero-layout-shift performance.
-
----
-
-### ⚙️ Engineering Principles & Architecture Standards
-
-- 📐 **Clean Architecture & SOLID:** Writing maintainable, decoupled code by isolating business logic, data models, and API interfaces.
-- 🔒 **Defensive Security & Auth:** Implementing strict token authentication (JWT/OAuth), role-based permissions, CORS hardening, and sanitized input validation.
-- ⚡ **Database Efficiency:** Avoiding N+1 queries using Django `select_related` and `prefetch_related`, indexing query-heavy foreign keys, and designing normalized PostgreSQL schemas.
-- 🤖 **Predictable AI Outputs:** Utilizing schema validation (Pydantic / structured outputs) to guarantee deterministic responses from generative AI APIs.
-- 🐳 **Consistent Environments:** Packaging applications in Docker containers to guarantee development parity with production deployments.
+- **Tech Stack:** `React 18`, `TypeScript`, `Vite`, `Tailwind CSS`, `Firebase`, `Vercel`
+- **Key Highlights:** Responsive dark-mode interface, instant asset loading, interactive project catalog, and smooth scrolling aesthetics.
 
 ---
 
-### 🔭 Current Focus & Technical Roadmap
+### ⚙️ Engineering Principles & Best Practices
 
-- 🧠 **Multi-Agent Orchestration:** Building complex autonomous workflows using LangGraph and agentic tool-calling protocols.
-- ⚡ **High-Throughput Caching & Queues:** Implementing Redis caching and Celery task queues for background job processing.
-- ☁️ **Cloud Native Deployments:** Setting up CI/CD pipelines and microservices deployment on AWS (EC2, S3, RDS).
+- 📐 **Clean Architecture & SOLID:** Separation of concerns between domain logic, data models, and API interfaces for long-term maintainability.
+- 🔒 **Security-First Backend:** Hardened JWT authentication, CSRF protection, input sanitization, and least-privilege database access.
+- ⚡ **Database Optimization:** Preventing N+1 queries, normalized relational structures, foreign key indexing, and concurrency control.
+- 🤖 **Deterministic AI Workflows:** Strict Pydantic / JSON schema validation, structured function calling, and context-grounded RAG pipelines.
+- 🐳 **Containerization:** Development and production parity using Docker and Docker Compose.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate
+### 🤝 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white)](https://abdulrasheedyp-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheedyp/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrasheed5140@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRasheedYP)
 
 </div>
