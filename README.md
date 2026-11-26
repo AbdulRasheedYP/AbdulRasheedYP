@@ -34,7 +34,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 
 - 🎯 **Core Expertise:** Python Backend Architecture, RESTful API Engineering, Relational Database Modeling, and LLM Tool Integration.
 - ⚙️ **Backend Prowess:** Production-grade services with Django, Django REST Framework, FastAPI, SQLAlchemy, Alembic, and PostgreSQL.
-- 🎨 **Modern Frontend:** Responsive, accessible interfaces built with React.js, TypeScript, Vite, and Tailwind CSS.
+- 🎨 **Modern Frontend:** Responsive, accessible interfaces built with React.js, JavaScript, Vite, and Tailwind CSS.
 - 🤖 **AI & LLM Systems:** RAG workflows, structured function calling, prompt engineering, and deterministic JSON outputs.
 - 🚀 **Live Showcase:** Explore my interactive applications on my **[Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**.
 
@@ -55,10 +55,10 @@ Python Backend Developer with hands-on experience building robust web applicatio
 
 #### Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html,css" alt="Frontend Stack" />
 </a>
 <br/>
-<code>React.js</code> • <code>TypeScript</code> • <code>JavaScript</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Responsive UI/UX</code>
+<code>React.js</code> • <code>JavaScript (ES6+)</code> • <code>Vite</code> • <code>Tailwind CSS</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Responsive UI/UX</code>
 
 <br/>
 
@@ -110,7 +110,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 #### 1. 🎯 [JobPilot AI](https://github.com/AbdulRasheedYP/jobpilot-ai) — AI-Powered Career Assistant
 > **An intelligent career assistant automating candidate profile analysis, skill taxonomy extraction, and semantic job matching.**
 
-- **Tech Stack:** `Python`, `FastAPI / DRF`, `React.js`, `Docker`, `Docker Compose`, `LLM APIs`
+- **Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `Alembic`, `Docker`, `React.js`, `Tailwind CSS`, `LLM APIs`
 - **Key Engineering Highlights:**
   - Developed an AI-powered career assistant that analyzes resumes, extracts relevant skills, and matches candidate profiles against targeted job descriptions.
   - Integrated LLM APIs using structured function calling to support intelligent job matching and automated career-related workflows.
@@ -133,7 +133,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 #### 3. ✈️ [Travel Planning Agent](https://github.com/AbdulRasheedYP/Travel-Planning-Agent) — Context-Aware AI Itinerary Generator
 > **An interactive travel planning engine translating natural language user prompts into day-wise personalized itineraries informed by live meteorological data.**
 
-- **Tech Stack:** `Python`, `Django REST Framework`, `React.js`, `RAG`, `LLM APIs`, `Open-Meteo API`, `PostgreSQL`
+- **Tech Stack:** `Python`, `Django`, `Django REST Framework (DRF)`, `PostgreSQL`, `pgvector`, `Google Gemini API`, `RAG`, `React.js`, `Open-Meteo API`
 - **Key Engineering Highlights:**
   - Built an AI-powered travel planning application that transforms natural-language travel requests into personalized, day-wise itineraries.
   - Implemented a RAG pipeline using curated destination data to provide relevant context for LLM-generated recommendations.
@@ -144,7 +144,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 #### 4. 🛒 [ShoeDrop](https://github.com/AbdulRasheedYP/shoedrop-ecommerce) — Full-Stack E-Commerce Platform
 > **A complete footwear e-commerce application featuring dynamic product discovery, cart lifecycle, checkout, and inventory tracking.**
 
-- **Tech Stack:** `Python`, `Django`, `PostgreSQL`, `Tailwind CSS`, `JavaScript (AJAX)`
+- **Tech Stack:** `Python`, `Django`, `PostgreSQL`, `Django ORM`, `AWS S3`, `Gunicorn`, `Tailwind CSS`, `JavaScript (AJAX)`
 - **Key Engineering Highlights:**
   - Developed and deployed a full-stack e-commerce platform featuring product discovery, shopping cart, checkout, and customer account management.
   - Designed relational database models to manage product variants (sizes, colors), inventory levels, pricing, coupons, and promotional discounts using PostgreSQL.
