@@ -10,7 +10,7 @@
 
 <!-- ACTION BADGES -->
 <p align="center">
-  <a href="https://abdulrasheedyp-portfolio.vercel.app/" target="_blank">
+  <a href="https://www.abdulrasheedyp.site/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abdulrasheedyp/" target="_blank">
@@ -36,7 +36,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 - ⚙️ **Backend Prowess:** Production-grade services with Django, Django REST Framework, FastAPI, SQLAlchemy, Alembic, and PostgreSQL.
 - 🎨 **Modern Frontend:** Responsive, accessible interfaces built with React.js, JavaScript, Vite, and Tailwind CSS.
 - 🤖 **AI & LLM Systems:** RAG workflows, structured function calling, prompt engineering, and deterministic JSON outputs.
-- 🚀 **Live Showcase:** Explore my interactive applications on my **[Portfolio](https://abdulrasheedyp-portfolio.vercel.app/)**.
+- 🚀 **Live Showcase:** Explore my interactive applications on my **[Portfolio](https://www.abdulrasheedyp.site/)**.
 
 ---
 
@@ -153,7 +153,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 ---
 
 #### 5. 🌐 [Personal Developer Portfolio](https://github.com/AbdulRasheedYP/portfolio) — Modern Web Portfolio
-> **Live Web Application: [abdulrasheedyp-portfolio.vercel.app](https://abdulrasheedyp-portfolio.vercel.app/)**
+> **Live Web Application: [abdulrasheedyp.site](https://www.abdulrasheedyp.site/)**
 
 - **Tech Stack:** `React 18`, `TypeScript`, `Vite`, `Tailwind CSS`, `Firebase`, `Vercel`
 - **Key Highlights:** Responsive dark-mode interface, instant asset loading, interactive project catalog, and smooth scrolling aesthetics.
@@ -174,7 +174,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white)](https://abdulrasheedyp-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=firefox&logoColor=white)](https://www.abdulrasheedyp.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrasheedyp/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrasheed5140@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRasheedYP)
