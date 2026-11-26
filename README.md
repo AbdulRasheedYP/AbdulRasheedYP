@@ -110,7 +110,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 #### 1. 🎯 [JobPilot AI](https://github.com/AbdulRasheedYP/jobpilot-ai) — AI-Powered Career Assistant
 > **An intelligent career assistant automating candidate profile analysis, skill taxonomy extraction, and semantic job matching.**
 
-- **Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `Alembic`, `Docker`, `React.js`, `Tailwind CSS`, `LLM APIs`
+- **Tech Stack:** `Python`, `FastAPI`, `PostgreSQL`, `SQLAlchemy`, `Alembic`, `Docker`, `React.js`, `JavaScript`, `Tailwind CSS`, `LLM APIs`
 - **Key Engineering Highlights:**
   - Developed an AI-powered career assistant that analyzes resumes, extracts relevant skills, and matches candidate profiles against targeted job descriptions.
   - Integrated LLM APIs using structured function calling to support intelligent job matching and automated career-related workflows.
@@ -133,7 +133,7 @@ Python Backend Developer with hands-on experience building robust web applicatio
 #### 3. ✈️ [Travel Planning Agent](https://github.com/AbdulRasheedYP/Travel-Planning-Agent) — Context-Aware AI Itinerary Generator
 > **An interactive travel planning engine translating natural language user prompts into day-wise personalized itineraries informed by live meteorological data.**
 
-- **Tech Stack:** `Python`, `Django`, `Django REST Framework (DRF)`, `PostgreSQL`, `pgvector`, `Google Gemini API`, `RAG`, `React.js`, `Open-Meteo API`
+- **Tech Stack:** `Python`, `Django`, `Django REST Framework (DRF)`, `PostgreSQL`, `pgvector`, `Google Gemini API`, `RAG`, `React.js`, `JavaScript`, `Open-Meteo API`
 - **Key Engineering Highlights:**
   - Built an AI-powered travel planning application that transforms natural-language travel requests into personalized, day-wise itineraries.
   - Implemented a RAG pipeline using curated destination data to provide relevant context for LLM-generated recommendations.
